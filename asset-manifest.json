@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selina-cv-react/static/css/main.073c9b0a.css",
+    "main.js": "/selina-cv-react/static/js/main.269b2fa5.js",
+    "index.html": "/selina-cv-react/index.html",
+    "main.073c9b0a.css.map": "/selina-cv-react/static/css/main.073c9b0a.css.map",
+    "main.269b2fa5.js.map": "/selina-cv-react/static/js/main.269b2fa5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.269b2fa5.js"
+  ]
+}
