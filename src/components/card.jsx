@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 
-function Card({ car }) {
+function Card({ style}) {
   return (
     <div className="col-md-3 mb-4">
       <div className="card">
